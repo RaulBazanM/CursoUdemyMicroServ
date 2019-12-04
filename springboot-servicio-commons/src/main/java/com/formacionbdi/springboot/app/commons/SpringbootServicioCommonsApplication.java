@@ -12,4 +12,5 @@ public class SpringbootServicioCommonsApplication {
 	// Será una dependencia
 	// También quitamos el plug-in de Maven en el POM
 	// Después de crear el jar con mvnw.cmd install, se puede borrar la dependencia de H2
+	// y agregar la notación @EnableAutoConfiguration (No funcionó como en el curso)
 }
